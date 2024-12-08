@@ -1,5 +1,6 @@
-# 💫 About Me:
-Hi there!👋 I'm Saya<br>💻 Aspiring software developer with a passion for problem-solving and design.<br><br>🎨 Digital Design and Management student at Narxoz University.<br><br>🔧 Proficient in Java, C++, and SQL, with an interest in web technologies and database systems.
+# Hi there!👋 I'm Saya 🪷
+
+Aspiring software developer with a passion for problem-solving and design.<br><br>🎨 Digital Design and Management student at Narxoz University.<br><br>🔧 Proficient in Java, C++, and SQL, with an interest in web technologies and database systems.
 
 
 ## 🌐 Socials:
